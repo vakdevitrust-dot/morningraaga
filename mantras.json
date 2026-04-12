@@ -1,0 +1,20 @@
+{
+  "mantras": [
+    {
+      "id": "m001",
+      "title": "Om Namo Venkatesaya",
+      "deity": "Lord Venkateswara (Balaji)",
+      "audio_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/om_namo_venkatesaya.opus",
+      "artwork_uri": "https://upload.wikimedia.org/wikipedia/commons/8/80/Venkateswara_balaji.jpg",
+      "color_hex": "#B8860B"
+    },
+    {
+      "id": "m002",
+      "title": "Govinda Namalu",
+      "deity": "Lord Vishnu (Narayana)",
+      "audio_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/govinda_namalu.opus",
+      "artwork_uri": "https://upload.wikimedia.org/wikipedia/commons/2/29/Raja_Ravi_Varma%2C_Seshanarayana_%28Oleographic_print%29.jpg",
+      "color_hex": "#1565C0"
+    }
+  ]
+}
