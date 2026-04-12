@@ -15,6 +15,14 @@
       "audio_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/govinda_namalu.opus",
       "artwork_uri": "https://upload.wikimedia.org/wikipedia/commons/2/29/Raja_Ravi_Varma%2C_Seshanarayana_%28Oleographic_print%29.jpg",
       "color_hex": "#1565C0"
+    },
+    {
+      "id": "m003",
+      "title": "Om Namo Bhagwate",
+      "deity": "Lord Krishna",
+      "audio_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/om_namo_bhagwate.opus",
+      "artwork_uri": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Krishna_with_flute.jpg",
+      "color_hex": "#2E7D32"
     }
   ]
 }
