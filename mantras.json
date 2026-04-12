@@ -23,6 +23,22 @@
       "audio_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/om_namo_bhagwate.opus",
       "artwork_uri": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Krishna_with_flute.jpg",
       "color_hex": "#2E7D32"
+    },
+    {
+      "id": "m004",
+      "title": "Achutha Anantha Govinda",
+      "deity": "Lord Vishnu (Govinda)",
+      "audio_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/achutha_anantha_govinda.opus",
+      "artwork_uri": "https://upload.wikimedia.org/wikipedia/commons/2/29/Raja_Ravi_Varma%2C_Seshanarayana_%28Oleographic_print%29.jpg",
+      "color_hex": "#0D47A1"
+    },
+    {
+      "id": "m005",
+      "title": "Ugram Viram Maha Vishnum",
+      "deity": "Lord Narasimha",
+      "audio_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/ugram_viram_maha_vishnum.opus",
+      "artwork_uri": "https://upload.wikimedia.org/wikipedia/commons/8/80/Venkateswara_balaji.jpg",
+      "color_hex": "#C62828"
     }
   ]
 }
