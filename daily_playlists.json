@@ -1,0 +1,160 @@
+{
+  "version": 2,
+  "playlists": {
+    "monday": {
+      "day": "Monday",
+      "deity": "Lord Shiva & Parvati",
+      "color": "#6A1B9A",
+      "description": "Start your week with Shiva and Parvati's divine blessings",
+      "songs": [
+        {"title": "Bho Shambo Shiva Shambo", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/monday/Bho_Shambo_Shiva_Shambo.opus", "duration": "4:30"},
+        {"title": "Chandra Sekarashtakam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/monday/Chandra_Sekarashtakam.opus", "duration": "3:50"},
+        {"title": "Chandrachooda ft Raghu", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/monday/CHANDRACHOODA_ft_Raghu.opus", "duration": "4:15"},
+        {"title": "Kala Bhairava Astakam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/monday/Kala_Bhairava_Astakam.opus", "duration": "5:20"},
+        {"title": "Nirvana Shatakam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/monday/Nirvana_Shatakam.opus", "duration": "3:10"},
+        {"title": "Shiv Tandav Stotram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/monday/Shiv_Tandav_Stotram.opus", "duration": "6:00"},
+        {"title": "Shiva Panchakshari Stothram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/monday/SHIVA_PANCHAKSHARI_STOTHAM_.opus", "duration": "4:45"},
+        {"title": "Sri Rudram Namakam Chamakam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/monday/Sri_Rudram_Namakam_Chamakam.opus", "duration": "7:30"}
+      ]
+    },
+    "tuesday": {
+      "day": "Tuesday",
+      "deity": "Hanuman & Subrahmanyeswara",
+      "color": "#C62828",
+      "description": "Invoke Hanuman's strength and Subrahmanyeswara's valor",
+      "songs": [
+        {"title": "Hanuman Chalisa", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/hanuman_chalisa.opus", "duration": "6:30"},
+        {"title": "Bajrang Baan", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/bajrang_baan.opus", "duration": "4:45"},
+        {"title": "Sankat Mochan Hanuman", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/sankat_mochan.opus", "duration": "3:15"},
+        {"title": "Hanuman Manasa Puja", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/hanuman_manasa_puja.opus", "duration": "4:20"},
+        {"title": "Sudarshana Ashtakam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/sudarshana_ashtakam.opus", "duration": "3:40"},
+        {"title": "Subrahmanya Bhujangam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/subrahmanya_bhujangam.opus", "duration": "5:50"},
+        {"title": "Skanda Shashti Kavacham", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/skanda_shashti.opus", "duration": "6:10"},
+        {"title": "Kanda Shasti Kavasam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/kanda_shasti.opus", "duration": "5:30"},
+        {"title": "Muruga Panchamritham", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/muruga_panchamritham.opus", "duration": "4:00"},
+        {"title": "Vel Vettri Vel", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/vel_vettri_vel.opus", "duration": "3:50"},
+        {"title": "Subrahmanyeswara Suprabhatam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/subrahmanyeswara_suprabhatam.opus", "duration": "5:45"},
+        {"title": "Kanda Sashti Vratam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/kanda_sashti_vratam.opus", "duration": "4:30"},
+        {"title": "Kumara Ashtakam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/kumara_ashtakam.opus", "duration": "3:25"},
+        {"title": "Shanmukha Kavacham", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/shanmukha_kavacham.opus", "duration": "6:00"}
+      ]
+    },
+    "wednesday": {
+      "day": "Wednesday",
+      "deity": "Ganapati, Vishnu, Rama & Ayyappa",
+      "color": "#1565C0",
+      "description": "Midweek blessings from the Divine Trinity",
+      "songs": [
+        {"title": "Vakratunda Mahakaya", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/vakratunda_mahakaya.opus", "duration": "2:30"},
+        {"title": "Ganesh Ashtakam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/ganesh_ashtakam.opus", "duration": "4:15"},
+        {"title": "Sukhakarta Dukhaharta", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/sukhakarta_dukhaharta.opus", "duration": "3:40"},
+        {"title": "Siddhi Vinayaka Stotram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/siddhi_vinayaka.opus", "duration": "4:20"},
+        {"title": "Govinda Namalu", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/govinda_namalu.opus", "duration": "29:55"},
+        {"title": "Vishnu Sahasranamam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/vishnu_sahasranamam.opus", "duration": "7:00"},
+        {"title": "Ugram Viram Maha Vishnum", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/ugram_viram_maha_vishnum.opus", "duration": "0:19"},
+        {"title": "Sri Rama Raksha Stotram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/rama_raksha.opus", "duration": "5:45"},
+        {"title": "Shri Rama Jayam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/shri_rama_jayam.opus", "duration": "4:30"},
+        {"title": "Bhaja Govindam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/bhaja_govindam.opus", "duration": "5:20"},
+        {"title": "Ayyappa Suprabhatam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/ayyappa_suprabhatam.opus", "duration": "6:15"},
+        {"title": "Swamiye Saranam Ayyappa", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/swamiye_saranam.opus", "duration": "4:40"},
+        {"title": "Sabarimala Pooja", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/sabarimala_pooja.opus", "duration": "5:00"},
+        {"title": "Harivarasanam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/harivarasanam.opus", "duration": "3:35"},
+        {"title": "Rama Nama Mahima", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/rama_nama_mahima.opus", "duration": "4:50"}
+      ]
+    },
+    "thursday": {
+      "day": "Thursday",
+      "deity": "Datta, Sai Baba & Dakshinamurthy",
+      "color": "#F57F17",
+      "description": "Seek wisdom and blessings from the Divine Gurus",
+      "songs": [
+        {"title": "Dattatreya Mantra", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/dattatreya_mantra.opus", "duration": "3:30"},
+        {"title": "Guru Stotram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/guru_stotram.opus", "duration": "4:00"},
+        {"title": "Dattatreya Suprabhatam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/dattatreya_suprabhatam.opus", "duration": "5:45"},
+        {"title": "Avadhuta Stotram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/avadhuta_stotram.opus", "duration": "4:20"},
+        {"title": "Om Sri Gurudev Namah", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/om_sri_gurudev_namah.opus", "duration": "3:50"},
+        {"title": "Sai Baba Arti", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/sai_baba_arti.opus", "duration": "5:10"},
+        {"title": "Om Sai Rama Sai Shyam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/om_sai_rama.opus", "duration": "4:30"},
+        {"title": "Sai Mahima", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/sai_mahima.opus", "duration": "5:00"},
+        {"title": "Dakshinamurthy Stotram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/dakshinamurthy_stotram.opus", "duration": "6:15"},
+        {"title": "Guru Paduka Stotram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/guru_paduka_stotram.opus", "duration": "4:40"},
+        {"title": "Shirdi Sai Arti", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/shirdi_sai_arti.opus", "duration": "3:55"},
+        {"title": "Sri Sai Chalisa", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/sri_sai_chalisa.opus", "duration": "5:30"},
+        {"title": "Dattatreya Kavacham", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/dattatreya_kavacham.opus", "duration": "4:10"},
+        {"title": "Guru Mantra Om Namo", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/guru_mantra_om_namo.opus", "duration": "3:20"},
+        {"title": "Sai Nath Bhajan", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/sai_nath_bhajan.opus", "duration": "4:45"}
+      ]
+    },
+    "friday": {
+      "day": "Friday",
+      "deity": "Lakshmi, Durga & Saraswati",
+      "color": "#AD1457",
+      "description": "Invite prosperity, protection and wisdom from the Divine Mothers",
+      "songs": [
+        {"title": "Lakshmi Ashtottaram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/lakshmi_ashtottaram.opus", "duration": "5:15"},
+        {"title": "Sri Sukta", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/sri_sukta.opus", "duration": "6:00"},
+        {"title": "Kanakadhara Stotram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/kanakadhara.opus", "duration": "4:30"},
+        {"title": "Durga Chalisa", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/durga_chalisa.opus", "duration": "5:40"},
+        {"title": "Saraswati Vandana", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/saraswati_vandana.opus", "duration": "3:50"},
+        {"title": "Mahishasura Mardini", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/mahishasura_mardini.opus", "duration": "7:20"},
+        {"title": "Devi Suprabhatam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/devi_suprabhatam.opus", "duration": "5:50"},
+        {"title": "Aigiri Nandini", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/aigiri_nandini.opus", "duration": "6:10"},
+        {"title": "Om Aim Hreem Kleem", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/om_aim_hreem_kleem.opus", "duration": "4:15"},
+        {"title": "Lakshmi Manasa Puja", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/lakshmi_manasa_puja.opus", "duration": "4:00"},
+        {"title": "Saraswati Mantra", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/saraswati_mantra.opus", "duration": "3:20"},
+        {"title": "Durga Suprabhatam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/durga_suprabhatam.opus", "duration": "5:30"},
+        {"title": "Lakshmi Kavacham", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/lakshmi_kavacham.opus", "duration": "4:45"},
+        {"title": "Saraswati Ashtakam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/saraswati_ashtakam.opus", "duration": "4:10"},
+        {"title": "Mahalakshmi Stotram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/mahalakshmi_stotram.opus", "duration": "5:00"}
+      ]
+    },
+    "saturday": {
+      "day": "Saturday",
+      "deity": "Venkateswara & Hanuman",
+      "color": "#E65100",
+      "description": "End the week with Balaji's grace and Hanuman's strength",
+      "songs": [
+        {"title": "Om Namo Venkatesaya", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/om_namo_venkatesaya.opus", "duration": "3:45"},
+        {"title": "Venkateswara Suprabhatam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/venkateswara_suprabhatam.opus", "duration": "7:30"},
+        {"title": "Srinivasa Kalyana Gatha", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/srinivasa_kalyana.opus", "duration": "5:15"},
+        {"title": "Balaji Aarti", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/balaji_aarti.opus", "duration": "4:20"},
+        {"title": "Govinda Namalu", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/govinda_namalu.opus", "duration": "29:55"},
+        {"title": "Hanuman Chalisa", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/hanuman_chalisa.opus", "duration": "6:30"},
+        {"title": "Hanuman Manasa Puja", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/hanuman_manasa_puja.opus", "duration": "4:20"},
+        {"title": "Sri Rama Raksha Stotram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/rama_raksha.opus", "duration": "5:45"},
+        {"title": "Venkatesa Ashtakam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/venkatesa_ashtakam.opus", "duration": "4:10"},
+        {"title": "Tirupati Balaji Darshan", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/tirupati_balaji_darshan.opus", "duration": "5:00"},
+        {"title": "Bajrang Baan", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/bajrang_baan.opus", "duration": "4:45"},
+        {"title": "Srinivasa Govinda", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/srinivasa_govinda.opus", "duration": "3:50"},
+        {"title": "Venkateswara Prapatti", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/venkateswara_prapatti.opus", "duration": "5:30"},
+        {"title": "Anjaneya Dhyana Stotram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/anjaneya_dhyana.opus", "duration": "4:00"},
+        {"title": "Tirumala Nitya Seva", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/tirumala_nitya_seva.opus", "duration": "6:15"},
+        {"title": "Hanuman Vadvanala Stotram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/hanuman_vadvanala.opus", "duration": "3:40"}
+      ]
+    },
+    "sunday": {
+      "day": "Sunday",
+      "deity": "Surya & Gayatri",
+      "color": "#FF8F00",
+      "description": "Greet the Sun God with devotion and divine wisdom",
+      "songs": [
+        {"title": "Aditya Hridayam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/aditya_hridayam.opus", "duration": "8:00"},
+        {"title": "Surya Namaskar Mantra", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/surya_namaskar.opus", "duration": "3:30"},
+        {"title": "Gayatri Mantra", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/gayatri_mantra.opus", "duration": "4:10"},
+        {"title": "Surya Ashtakam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/surya_ashtakam.opus", "duration": "4:45"},
+        {"title": "Surya Kavacham", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/surya_kavacham.opus", "duration": "5:20"},
+        {"title": "Bhaskara Ashtakam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/bhaskara_ashtakam.opus", "duration": "4:00"},
+        {"title": "Gayatri Chalisa", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/gayatri_chalisa.opus", "duration": "5:30"},
+        {"title": "Savita Devi Stotram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/savita_devi.opus", "duration": "4:20"},
+        {"title": "Aruna Prasnam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/aruna_prasnam.opus", "duration": "6:40"},
+        {"title": "Surya Gayatri Mantra", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/surya_gayatri.opus", "duration": "3:15"},
+        {"title": "Maha Gayatri Mantra", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/maha_gayatri.opus", "duration": "4:50"},
+        {"title": "Pratah Smarani", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/pratah_smarani.opus", "duration": "5:10"},
+        {"title": "Surya Bhagavan Stotram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/surya_bhagavan.opus", "duration": "4:35"},
+        {"title": "Sandhya Vandanam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/sandhya_vandanam.opus", "duration": "7:00"},
+        {"title": "Surya Maha Mantra", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/surya_maha_mantra.opus", "duration": "3:50"},
+        {"title": "Arunodaya Mantra", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/arunodaya_mantra.opus", "duration": "4:15"}
+      ]
+    }
+  }
+}
