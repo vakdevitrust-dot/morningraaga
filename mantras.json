@@ -39,6 +39,14 @@
       "audio_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/ugram_viram_maha_vishnum.opus",
       "artwork_uri": "https://upload.wikimedia.org/wikipedia/commons/8/80/Venkateswara_balaji.jpg",
       "color_hex": "#C62828"
+    },
+    {
+      "id": "m006",
+      "title": "Om Namah Shivaya",
+      "deity": "Lord Shiva",
+      "audio_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/om_namah_shivaya.opus",
+      "artwork_uri": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Shiva_as_Nataraja.jpg",
+      "color_hex": "#6A1B9A"
     }
   ]
 }
