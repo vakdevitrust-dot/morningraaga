@@ -19,17 +19,16 @@
     },
     "tuesday": {
       "day": "Tuesday",
-      "deity": "Hanuman & Subrahmanyeswara",
+      "deity": "Hanuman & Ayyappa",
       "color": "#C62828",
-      "description": "Invoke Hanuman's strength and Subrahmanyeswara's valor",
+      "description": "Invoke Hanuman's strength and Ayyappa's devotion",
       "songs": [
-        {"title": "Ayyappa Swamy Song Harivarasanam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/Tuesday/Ayyappa%20Swamy%20Song%20Harivarasanam.opus", "duration": "4:59"},
-        {"title": "Bajrang Baan", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/Tuesday/Bajrang%20Baan.opus", "duration": "4:49"},
-        {"title": "Hanuman Badabanala Stotram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/Tuesday/Hanuman%20Badabanala%20stotram.opus", "duration": "8:33"},
-        {"title": "Hanuman Chalisa", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/Tuesday/Hanuman%20Chalisa.opus", "duration": "9:42"},
-        {"title": "Panchmukhi Hanuman Kavach", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/Tuesday/Panchmukhi%20Hanuman%20Kavach.opus", "duration": "7:34"},
-        {"title": "Sri Hanuman Mala Mantra", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/Tuesday/Sri%20Hanuman%20Mala%20Mantra.opus", "duration": "7:21"},
-        {"title": "Sri Ramadootha Stotram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/Tuesday/Sri%20Ramadootha%20Stotram.opus", "duration": "3:07"}
+        {"title": "Ayyappa Swamy Song Harivarasanam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Tuesday/Ayyappa%20Swamy%20Song%20Harivarasanam.opus", "duration": "4:59"},
+        {"title": "Hanuman Badabanala Stotram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Tuesday/Hanuman%20Badabanala%20stotram.opus", "duration": "8:33"},
+        {"title": "Hanuman Chalisa", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Tuesday/Hanuman%20Chalisa.opus", "duration": "9:42"},
+        {"title": "Panchmukhi Hanuman Kavach", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Tuesday/Panchmukhi%20Hanuman%20Kavach.opus", "duration": "7:34"},
+        {"title": "Sri Hanuman Mala Mantra", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Tuesday/Sri%20Hanuman%20Mala%20Mantra.opus", "duration": "7:21"},
+        {"title": "Sri Ramadootha Stotram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Tuesday/Sri%20Ramadootha%20Stotram.opus", "duration": "3:07"}
       ]
     },
     "wednesday": {
