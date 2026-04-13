@@ -24,6 +24,7 @@
       "description": "Invoke Hanuman's strength and Ayyappa's devotion",
       "songs": [
         {"title": "Ayyappa Swamy Song Harivarasanam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Tuesday/Ayyappa%20Swamy%20Song%20Harivarasanam.opus", "duration": "4:59"},
+        {"title": "Bajrang Baan", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Tuesday/Bajrang%20Baan.opus", "duration": "4:49"},
         {"title": "Hanuman Badabanala Stotram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Tuesday/Hanuman%20Badabanala%20stotram.opus", "duration": "8:33"},
         {"title": "Hanuman Chalisa", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Tuesday/Hanuman%20Chalisa.opus", "duration": "9:42"},
         {"title": "Panchmukhi Hanuman Kavach", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Tuesday/Panchmukhi%20Hanuman%20Kavach.opus", "duration": "7:34"},
@@ -37,6 +38,14 @@
       "color": "#1565C0",
       "description": "Midweek blessings from the Divine Trinity",
       "songs": [
+        {"title": "Ganesha Pancharatnam Stotram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Wednesday/Ganesha%20Pancharatnam%20Stotram.opus", "duration": "4:27"},
+        {"title": "Ramadasu Pahi Rama Prabho", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Wednesday/Ramadasu%20Pahi%20Rama%20Prabho.opus", "duration": "5:01"},
+        {"title": "Ramadasu Ye Teeruga Nanu", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Wednesday/Ramadasu%20Ye%20Teeruga%20Nanu.opus", "duration": "6:28"},
+        {"title": "Ramachandraya Mangalam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Wednesday/Ramachandraya%20Mangalam.opus", "duration": "3:39"},
+        {"title": "Sri Ranganatha Ashtakam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Wednesday/Sri%20Ranganatha%20Ashtakam.opus", "duration": "3:51"},
+        {"title": "Vishnu Sahasranamam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Wednesday/Vishnu%20Sahasranamam.opus", "duration": "29:46"},
+        {"title": "Deva Devam Bhaje", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Wednesday/Deva%20Devam%20Bhaje.opus", "duration": "4:11"},
+        {"title": "GARUDAGAMANA TAVA", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Wednesday/GARUDAGAMANA%20TAVA.opus", "duration": "7:40"},
         {"title": "Vakratunda Mahakaya", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/vakratunda_mahakaya.opus", "duration": "2:30"},
         {"title": "Ganesh Ashtakam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/ganesh_ashtakam.opus", "duration": "4:15"},
         {"title": "Sukhakarta Dukhaharta", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/sukhakarta_dukhaharta.opus", "duration": "3:40"},
