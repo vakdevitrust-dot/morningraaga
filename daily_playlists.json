@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 3,
   "playlists": {
     "monday": {
       "day": "Monday",
@@ -87,21 +87,14 @@
       "color": "#AD1457",
       "description": "Invite prosperity, protection and wisdom from the Divine Mothers",
       "songs": [
-        {"title": "Lakshmi Ashtottaram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/lakshmi_ashtottaram.opus", "duration": "5:15"},
-        {"title": "Sri Sukta", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/sri_sukta.opus", "duration": "6:00"},
-        {"title": "Kanakadhara Stotram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/kanakadhara.opus", "duration": "4:30"},
-        {"title": "Durga Chalisa", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/durga_chalisa.opus", "duration": "5:40"},
-        {"title": "Saraswati Vandana", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/saraswati_vandana.opus", "duration": "3:50"},
-        {"title": "Mahishasura Mardini", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/mahishasura_mardini.opus", "duration": "7:20"},
-        {"title": "Devi Suprabhatam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/devi_suprabhatam.opus", "duration": "5:50"},
-        {"title": "Aigiri Nandini", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/aigiri_nandini.opus", "duration": "6:10"},
-        {"title": "Om Aim Hreem Kleem", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/om_aim_hreem_kleem.opus", "duration": "4:15"},
-        {"title": "Lakshmi Manasa Puja", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/lakshmi_manasa_puja.opus", "duration": "4:00"},
-        {"title": "Saraswati Mantra", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/saraswati_mantra.opus", "duration": "3:20"},
-        {"title": "Durga Suprabhatam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/durga_suprabhatam.opus", "duration": "5:30"},
-        {"title": "Lakshmi Kavacham", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/lakshmi_kavacham.opus", "duration": "4:45"},
-        {"title": "Saraswati Ashtakam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/saraswati_ashtakam.opus", "duration": "4:10"},
-        {"title": "Mahalakshmi Stotram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/mahalakshmi_stotram.opus", "duration": "5:00"}
+        {"title": "Aigiri Nandini", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Friday/Aigiri%20Nandini.opus", "duration": "15:13"},
+        {"title": "Aparajita Stotram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Friday/Aparajita%20Stotram.opus", "duration": "8:18"},
+        {"title": "Hayagreeva Stotram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Friday/Hayagreeva%20Stotram.opus", "duration": "10:53"},
+        {"title": "Kanakadhara Stotram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Friday/Kanakadhara%20Stotram.opus", "duration": "10:42"},
+        {"title": "Manidweepa Varnana", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Friday/Manidweepa%20Varnana.opus", "duration": "12:44"},
+        {"title": "Saraswathi Kavacham Song", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Friday/Saraswathi%20Kavacham%20Song.opus", "duration": "4:13"},
+        {"title": "Saraswati Vishwavijay Kavach", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Friday/Saraswati%20Vishwavijay%20Kavach.opus", "duration": "10:45"},
+        {"title": "Sri Lalitha Sahasranama Stotram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Friday/Sri%20Lalitha%20Sahasranama%20Stotram.opus", "duration": "30:55"}
       ]
     },
     "saturday": {
