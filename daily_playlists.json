@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 3,
   "playlists": {
     "monday": {
       "day": "Monday",
@@ -69,16 +69,16 @@
       "color": "#F57F17",
       "description": "Seek wisdom and blessings from the Divine Gurus",
       "songs": [
-        {"title": "SIDDHA MANGALA STOTRAM", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/Thursday/SIDDHA%20MANGALA%20STOTRAM.opus", "duration": "5:00"},
-        {"title": "SRI DAKSHINAMURTHY STOTRAM", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/Thursday/SRI%20DAKSHINAMURTHY%20STOTRAM.opus", "duration": "6:00"},
-        {"title": "Sri Dattatreya Vajra Kavacha Stotram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/Thursday/Sri_Dattatreya_Vajra_Kavacha_Stotram_new.opus", "duration": "7:00"},
-        {"title": "Sri Dattatreya Stotram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/Thursday/Sri%20Dattatreya%20Stotram.opus", "duration": "5:30"},
-        {"title": "Guru Paduka Stotram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/Thursday/Guru%20Paduka%20Stotram.opus", "duration": "4:40"},
-        {"title": "Sai Baba Madhyan Harathi (Afternoon)", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/Thursday/Sai%20Baba%20Madhyan%20Harathi%20(Afternoon).opus", "duration": "3:50"},
-        {"title": "Saibaba Dhoop Aarti", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/Thursday/Saibaba%20Dhoop%20Aarti.opus", "duration": "4:10"},
-        {"title": "Shirdi Sai Baba Kakada Harathi", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/Thursday/Shirdi%20Sai%20Baba%20Kakada%20Harathi.opus", "duration": "3:30"},
-        {"title": "Shiridi Sai Baba Shej Aarti (Night Aarti)", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/Thursday/Shiridi%20Sai%20Baba%20Shej%20Aarti%20(Night%20Aarti).opus", "duration": "4:00"},
-        {"title": "Sri Shiridi Sai Baba Chalisa", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/Thursday/Sri%20Shiridi%20Sai%20Baba%20Chalisa.opus", "duration": "5:30"}
+        {"title": "SIDDHA MANGALA STOTRAM", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Thursday/SIDDHA%20MANGALA%20STOTRAM.opus", "duration": "5:00"},
+        {"title": "SRI DAKSHINAMURTHY STOTRAM", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Thursday/SRI%20DAKSHINAMURTHY%20STOTRAM.opus", "duration": "6:00"},
+        {"title": "Sri Dattatreya Vajra Kavacha Stotram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Thursday/Sri_Dattatreya_Vajra_Kavacha_Stotram_new.opus", "duration": "7:00"},
+        {"title": "Sri Dattatreya Stotram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Thursday/Sri%20Dattatreya%20Stotram.opus", "duration": "5:30"},
+        {"title": "Guru Paduka Stotram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Thursday/Guru%20Paduka%20Stotram.opus", "duration": "4:40"},
+        {"title": "Sai Baba Madhyan Harathi (Afternoon)", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Thursday/Sai%20Baba%20Madhyan%20Harathi%20(Afternoon).opus", "duration": "3:50"},
+        {"title": "Saibaba Dhoop Aarti", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Thursday/Saibaba%20Dhoop%20Aarti.opus", "duration": "4:10"},
+        {"title": "Shirdi Sai Baba Kakada Harathi", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Thursday/Shirdi%20Sai%20Baba%20Kakada%20Harathi.opus", "duration": "3:30"},
+        {"title": "Shiridi Sai Baba Shej Aarti (Night Aarti)", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Thursday/Shiridi%20Sai%20Baba%20Shej%20Aarti%20(Night%20Aarti).opus", "duration": "4:00"},
+        {"title": "Sri Shiridi Sai Baba Chalisa", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Thursday/Sri%20Shiridi%20Sai%20Baba%20Chalisa.opus", "duration": "5:30"}
       ]
     },
     "friday": {
