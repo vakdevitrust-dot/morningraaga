@@ -99,26 +99,19 @@
     },
     "saturday": {
       "day": "Saturday",
-      "deity": "Venkateswara & Hanuman",
+      "deity": "Venkateswara & Annamayya",
       "color": "#E65100",
-      "description": "End the week with Balaji's grace and Hanuman's strength",
+      "description": "End the week with Balaji's grace and Annamayya's devotion",
       "songs": [
-        {"title": "Om Namo Venkatesaya", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/om_namo_venkatesaya.opus", "duration": "3:45"},
-        {"title": "Venkateswara Suprabhatam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/venkateswara_suprabhatam.opus", "duration": "7:30"},
-        {"title": "Srinivasa Kalyana Gatha", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/srinivasa_kalyana.opus", "duration": "5:15"},
-        {"title": "Balaji Aarti", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/balaji_aarti.opus", "duration": "4:20"},
-        {"title": "Govinda Namalu", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/govinda_namalu.opus", "duration": "29:55"},
-        {"title": "Hanuman Chalisa", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/hanuman_chalisa.opus", "duration": "6:30"},
-        {"title": "Hanuman Manasa Puja", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/hanuman_manasa_puja.opus", "duration": "4:20"},
-        {"title": "Sri Rama Raksha Stotram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/rama_raksha.opus", "duration": "5:45"},
-        {"title": "Venkatesa Ashtakam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/venkatesa_ashtakam.opus", "duration": "4:10"},
-        {"title": "Tirupati Balaji Darshan", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/tirupati_balaji_darshan.opus", "duration": "5:00"},
-        {"title": "Bajrang Baan", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/bajrang_baan.opus", "duration": "4:45"},
-        {"title": "Srinivasa Govinda", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/srinivasa_govinda.opus", "duration": "3:50"},
-        {"title": "Venkateswara Prapatti", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/venkateswara_prapatti.opus", "duration": "5:30"},
-        {"title": "Anjaneya Dhyana Stotram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/anjaneya_dhyana.opus", "duration": "4:00"},
-        {"title": "Tirumala Nitya Seva", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/tirumala_nitya_seva.opus", "duration": "6:15"},
-        {"title": "Hanuman Vadvanala Stotram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/hanuman_vadvanala.opus", "duration": "3:40"}
+        {"title": "Sri Venkateswara Suprabhatham", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Saturday/Sri%20Venkateswara%20Suprabhatham.opus", "duration": "20:41"},
+        {"title": "Sri Venkatesha Stotram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Saturday/Sri%20Venkatesha%20Stotram.opus", "duration": "5:29"},
+        {"title": "Annamayya Keerthana Ksheerabdi Kanyakaku", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Saturday/Annamayya%20Keerthana%20%20Ksheerabdi%20Kanyakaku.opus", "duration": "7:52"},
+        {"title": "Annamayya Keerthana Alara Chanchalamaina", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Saturday/Annamayya%20Keerthana%20Alara%20Chanchalamaina%20Annamacharya.opus", "duration": "6:43"},
+        {"title": "Annamayya Keerthana Anthayu Neeve", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Saturday/Annamayya%20Keerthana%20Anthayu%20Neeve%20Song.opus", "duration": "8:07"},
+        {"title": "Annamayya Keerthana Merugu Chekkula Alamelu Manga", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Saturday/Annamayya%20Keerthana%20Merugu%20Chekkula%20Alamelu%20Manga.opus", "duration": "6:58"},
+        {"title": "Annamayya Keerthana Narayana Nee Naamame", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Saturday/Annamayya%20Keerthana%20Narayana%20Nee%20Naamame.opus", "duration": "7:06"},
+        {"title": "Annamayya Keerthana Narayanathe Namo Namo", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Saturday/Annamayya%20Keerthana%20Narayanathe%20namo%20namo.opus", "duration": "7:33"},
+        {"title": "Annamayya Keerthana Thalachedi Okati", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Saturday/Annamayya%20Keerthana%20Thalachedi%20Okati.opus", "duration": "3:36"}
       ]
     },
     "sunday": {
