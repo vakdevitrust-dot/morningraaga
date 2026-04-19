@@ -120,22 +120,11 @@
       "color": "#FF8F00",
       "description": "Greet the Sun God with devotion and divine wisdom",
       "songs": [
-        {"title": "Aditya Hridayam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/aditya_hridayam.opus", "duration": "8:00"},
-        {"title": "Surya Namaskar Mantra", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/surya_namaskar.opus", "duration": "3:30"},
-        {"title": "Gayatri Mantra", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/gayatri_mantra.opus", "duration": "4:10"},
-        {"title": "Surya Ashtakam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/surya_ashtakam.opus", "duration": "4:45"},
-        {"title": "Surya Kavacham", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/surya_kavacham.opus", "duration": "5:20"},
-        {"title": "Bhaskara Ashtakam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/bhaskara_ashtakam.opus", "duration": "4:00"},
-        {"title": "Gayatri Chalisa", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/gayatri_chalisa.opus", "duration": "5:30"},
-        {"title": "Savita Devi Stotram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/savita_devi.opus", "duration": "4:20"},
-        {"title": "Aruna Prasnam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/aruna_prasnam.opus", "duration": "6:40"},
-        {"title": "Surya Gayatri Mantra", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/surya_gayatri.opus", "duration": "3:15"},
-        {"title": "Maha Gayatri Mantra", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/maha_gayatri.opus", "duration": "4:50"},
-        {"title": "Pratah Smarani", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/pratah_smarani.opus", "duration": "5:10"},
-        {"title": "Surya Bhagavan Stotram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/surya_bhagavan.opus", "duration": "4:35"},
-        {"title": "Sandhya Vandanam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/sandhya_vandanam.opus", "duration": "7:00"},
-        {"title": "Surya Maha Mantra", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/surya_maha_mantra.opus", "duration": "3:50"},
-        {"title": "Arunodaya Mantra", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/arunodaya_mantra.opus", "duration": "4:15"}
+        {"title": "Aditya Hrudayam Stotram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Sunday/Aditya%20Hrudayam%20Stotram.opus", "duration": "9:32"},
+        {"title": "Surya Kavacham", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Sunday/Surya%20Kavacham.opus", "duration": "1:25"},
+        {"title": "Vishnu Sahasranamam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Wednesday/Vishnu%20Sahasranamam.opus", "duration": "29:46"},
+        {"title": "Deva Devam Bhaje", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Wednesday/Deva%20Devam%20Bhaje.opus", "duration": "4:11"},
+        {"title": "GARUDAGAMANA TAVA", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Wednesday/GARUDAGAMANA%20TAVA.opus", "duration": "7:40"}
       ]
     }
   }
