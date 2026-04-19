@@ -1,9 +1,10 @@
 {
-  "version": 7,
+  "version": 6,
   "playlists": {
     "monday": {
       "day": "Monday",
       "deity": "Lord Shiva & Parvati",
+      "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_shiva_1776579225887.png",
       "color": "#6A1B9A",
       "description": "Start your week with Shiva and Parvati's divine blessings",
       "songs": [
@@ -20,6 +21,7 @@
     "tuesday": {
       "day": "Tuesday",
       "deity": "Hanuman & Ayyappa",
+      "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_hanuman_1776579268404.png",
       "color": "#C62828",
       "description": "Invoke Hanuman's strength and Ayyappa's devotion",
       "songs": [
@@ -35,6 +37,7 @@
     "wednesday": {
       "day": "Wednesday",
       "deity": "Ganapati, Vishnu, Rama & Ayyappa",
+      "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_ganesha_1776579313961.png",
       "color": "#1565C0",
       "description": "Midweek blessings from the Divine Trinity",
       "songs": [
@@ -66,6 +69,7 @@
     "thursday": {
       "day": "Thursday",
       "deity": "Datta, Sai Baba & Dakshinamurthy",
+      "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/dattatreya_1776579419088.png",
       "color": "#F57F17",
       "description": "Seek wisdom and blessings from the Divine Gurus",
       "songs": [
@@ -84,6 +88,7 @@
     "friday": {
       "day": "Friday",
       "deity": "Lakshmi, Durga & Saraswati",
+      "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/goddess_lakshmi_1776579283719.png",
       "color": "#AD1457",
       "description": "Invite prosperity, protection and wisdom from the Divine Mothers",
       "songs": [
@@ -100,6 +105,7 @@
     "saturday": {
       "day": "Saturday",
       "deity": "Venkateswara & Annamayya",
+      "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_venkateswara_1776579139190.png",
       "color": "#E65100",
       "description": "End the week with Balaji's grace and Annamayya's devotion",
       "songs": [
@@ -117,6 +123,7 @@
     "sunday": {
       "day": "Sunday",
       "deity": "Surya & Gayatri",
+      "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_surya_1776579383336.png",
       "color": "#FF8F00",
       "description": "Greet the Sun God with devotion and divine wisdom",
       "songs": [
