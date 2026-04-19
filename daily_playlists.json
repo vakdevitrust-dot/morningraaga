@@ -105,13 +105,13 @@
       "songs": [
         {"title": "Sri Venkateswara Suprabhatham", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Saturday/Sri%20Venkateswara%20Suprabhatham.opus", "duration": "20:41"},
         {"title": "Sri Venkatesha Stotram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Saturday/Sri%20Venkatesha%20Stotram.opus", "duration": "5:29"},
-        {"title": "Annamayya Keerthana Ksheerabdi Kanyakaku", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Saturday/Annamayya%20Keerthana%20%20Ksheerabdi%20Kanyakaku.opus", "duration": "7:52"},
-        {"title": "Annamayya Keerthana Alara Chanchalamaina", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Saturday/Annamayya%20Keerthana%20Alara%20Chanchalamaina%20Annamacharya.opus", "duration": "6:43"},
-        {"title": "Annamayya Keerthana Anthayu Neeve", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Saturday/Annamayya%20Keerthana%20Anthayu%20Neeve%20Song.opus", "duration": "8:07"},
-        {"title": "Annamayya Keerthana Merugu Chekkula Alamelu Manga", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Saturday/Annamayya%20Keerthana%20Merugu%20Chekkula%20Alamelu%20Manga.opus", "duration": "6:58"},
-        {"title": "Annamayya Keerthana Narayana Nee Naamame", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Saturday/Annamayya%20Keerthana%20Narayana%20Nee%20Naamame.opus", "duration": "7:06"},
-        {"title": "Annamayya Keerthana Narayanathe Namo Namo", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Saturday/Annamayya%20Keerthana%20Narayanathe%20namo%20namo.opus", "duration": "7:33"},
-        {"title": "Annamayya Keerthana Thalachedi Okati", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Saturday/Annamayya%20Keerthana%20Thalachedi%20Okati.opus", "duration": "3:36"}
+        {"title": "Ksheerabdi Kanyakaku- Annamayya Keerthana", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Saturday/Annamayya%20Keerthana%20%20Ksheerabdi%20Kanyakaku.opus", "duration": "7:52"},
+        {"title": "Alara Chanchalamaina- Annamayya Keerthana", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Saturday/Annamayya%20Keerthana%20Alara%20Chanchalamaina%20Annamacharya.opus", "duration": "6:43"},
+        {"title": "Anthayu Neeve- Annamayya Keerthana", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Saturday/Annamayya%20Keerthana%20Anthayu%20Neeve%20Song.opus", "duration": "8:07"},
+        {"title": "Merugu Chekkula Alamelu Manga- Annamayya Keerthana", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Saturday/Annamayya%20Keerthana%20Merugu%20Chekkula%20Alamelu%20Manga.opus", "duration": "6:58"},
+        {"title": "Narayana Nee Naamame- Annamayya Keerthana", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Saturday/Annamayya%20Keerthana%20Narayana%20Nee%20Naamame.opus", "duration": "7:06"},
+        {"title": "Narayanathe Namo Namo- Annamayya Keerthana", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Saturday/Annamayya%20Keerthana%20Narayanathe%20namo%20namo.opus", "duration": "7:33"},
+        {"title": "Thalachedi Okati- Annamayya Keerthana", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Saturday/Annamayya%20Keerthana%20Thalachedi%20Okati.opus", "duration": "3:36"}
       ]
     },
     "sunday": {
