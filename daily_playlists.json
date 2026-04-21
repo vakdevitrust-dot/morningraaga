@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 6,
   "playlists": {
     "monday": {
       "day": "Monday",
@@ -8,14 +8,54 @@
       "color": "#6A1B9A",
       "description": "Start your week with Shiva and Parvati's divine blessings",
       "songs": [
-        {"title": "Bho Shambo Shiva Shambo", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/monday/Bho_Shambo_Shiva_Shambo.opus", "duration": "4:30"},
-        {"title": "Chandra Sekarashtakam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/monday/Chandra_Sekarashtakam.opus", "duration": "3:50"},
-        {"title": "Chandrachooda ft Raghu", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/monday/CHANDRACHOODA_ft_Raghu.opus", "duration": "4:15"},
-        {"title": "Kala Bhairava Astakam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/monday/Kala_Bhairava_Astakam.opus", "duration": "5:20"},
-        {"title": "Nirvana Shatakam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/monday/Nirvana_Shatakam.opus", "duration": "3:10"},
-        {"title": "Shiv Tandav Stotram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/monday/Shiv_Tandav_Stotram.opus", "duration": "6:00"},
-        {"title": "Shiva Panchakshari Stothram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/monday/SHIVA_PANCHAKSHARI_STOTHAM_.opus", "duration": "4:45"},
-        {"title": "Sri Rudram Namakam Chamakam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/monday/Sri_Rudram_Namakam_Chamakam.opus", "duration": "7:30"}
+        {
+          "title": "Bho Shambo Shiva Shambo",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/monday/Bho_Shambo_Shiva_Shambo.opus",
+          "duration": "4:30",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_shiva_1776579225887.png"
+        },
+        {
+          "title": "Chandra Sekarashtakam",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/monday/Chandra_Sekarashtakam.opus",
+          "duration": "3:50",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_shiva_1776579225887.png"
+        },
+        {
+          "title": "Chandrachooda ft Raghu",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/monday/CHANDRACHOODA_ft_Raghu.opus",
+          "duration": "4:15",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_shiva_1776579225887.png"
+        },
+        {
+          "title": "Kala Bhairava Astakam",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/monday/Kala_Bhairava_Astakam.opus",
+          "duration": "5:20",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_shiva_1776579225887.png"
+        },
+        {
+          "title": "Nirvana Shatakam",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/monday/Nirvana_Shatakam.opus",
+          "duration": "3:10",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_shiva_1776579225887.png"
+        },
+        {
+          "title": "Shiv Tandav Stotram",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/monday/Shiv_Tandav_Stotram.opus",
+          "duration": "6:00",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_shiva_1776579225887.png"
+        },
+        {
+          "title": "Shiva Panchakshari Stothram",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/monday/SHIVA_PANCHAKSHARI_STOTHAM_.opus",
+          "duration": "4:45",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_shiva_1776579225887.png"
+        },
+        {
+          "title": "Sri Rudram Namakam Chamakam",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/monday/Sri_Rudram_Namakam_Chamakam.opus",
+          "duration": "7:30",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_shiva_1776579225887.png"
+        }
       ]
     },
     "tuesday": {
@@ -25,13 +65,48 @@
       "color": "#C62828",
       "description": "Invoke Hanuman's strength and Ayyappa's devotion",
       "songs": [
-        {"title": "Ayyappa Swamy Song Harivarasanam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Tuesday/Ayyappa%20Swamy%20Song%20Harivarasanam.opus", "duration": "4:59"},
-        {"title": "Bajrang Baan", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Tuesday/Bajrang%20Baan.opus", "duration": "4:49"},
-        {"title": "Hanuman Badabanala Stotram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Tuesday/Hanuman%20Badabanala%20stotram.opus", "duration": "8:33"},
-        {"title": "Hanuman Chalisa", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Tuesday/Hanuman%20Chalisa.opus", "duration": "9:42"},
-        {"title": "Panchmukhi Hanuman Kavach", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Tuesday/Panchmukhi%20Hanuman%20Kavach.opus", "duration": "7:34"},
-        {"title": "Sri Hanuman Mala Mantra", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Tuesday/Sri%20Hanuman%20Mala%20Mantra.opus", "duration": "7:21"},
-        {"title": "Sri Ramadootha Stotram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Tuesday/Sri%20Ramadootha%20Stotram.opus", "duration": "3:07"}
+        {
+          "title": "Ayyappa Swamy Song Harivarasanam",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Tuesday/Ayyappa%20Swamy%20Song%20Harivarasanam.opus",
+          "duration": "4:59",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_hanuman_1776579268404.png"
+        },
+        {
+          "title": "Bajrang Baan",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Tuesday/Bajrang%20Baan.opus",
+          "duration": "4:49",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_hanuman_1776579268404.png"
+        },
+        {
+          "title": "Hanuman Badabanala Stotram",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Tuesday/Hanuman%20Badabanala%20stotram.opus",
+          "duration": "8:33",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_hanuman_1776579268404.png"
+        },
+        {
+          "title": "Hanuman Chalisa",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Tuesday/Hanuman%20Chalisa.opus",
+          "duration": "9:42",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_hanuman_1776579268404.png"
+        },
+        {
+          "title": "Panchmukhi Hanuman Kavach",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Tuesday/Panchmukhi%20Hanuman%20Kavach.opus",
+          "duration": "7:34",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_hanuman_1776579268404.png"
+        },
+        {
+          "title": "Sri Hanuman Mala Mantra",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Tuesday/Sri%20Hanuman%20Mala%20Mantra.opus",
+          "duration": "7:21",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_hanuman_1776579268404.png"
+        },
+        {
+          "title": "Sri Ramadootha Stotram",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Tuesday/Sri%20Ramadootha%20Stotram.opus",
+          "duration": "3:07",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_vishnu_1776579165530.png"
+        }
       ]
     },
     "wednesday": {
@@ -41,48 +116,213 @@
       "color": "#1565C0",
       "description": "Midweek blessings from the Divine Trinity",
       "songs": [
-        {"title": "Ganesha Pancharatnam Stotram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Wednesday/Ganesha%20Pancharatnam%20Stotram.opus", "duration": "4:27"},
-        {"title": "Ramadasu Pahi Rama Prabho", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Wednesday/Ramadasu%20Pahi%20Rama%20Prabho.opus", "duration": "5:01"},
-        {"title": "Ramadasu Ye Teeruga Nanu", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Wednesday/Ramadasu%20Ye%20Teeruga%20Nanu.opus", "duration": "6:28"},
-        {"title": "Ramachandraya Mangalam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Wednesday/Ramachandraya%20Mangalam.opus", "duration": "3:39"},
-        {"title": "Sri Ranganatha Ashtakam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Wednesday/Sri%20Ranganatha%20Ashtakam.opus", "duration": "3:51"},
-        {"title": "Vishnu Sahasranamam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Wednesday/Vishnu%20Sahasranamam.opus", "duration": "29:46"},
-        {"title": "Deva Devam Bhaje", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Wednesday/Deva%20Devam%20Bhaje.opus", "duration": "4:11"},
-        {"title": "GARUDAGAMANA TAVA", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Wednesday/GARUDAGAMANA%20TAVA.opus", "duration": "7:40"},
-        {"title": "Vakratunda Mahakaya", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/vakratunda_mahakaya.opus", "duration": "2:30"},
-        {"title": "Ganesh Ashtakam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/ganesh_ashtakam.opus", "duration": "4:15"},
-        {"title": "Sukhakarta Dukhaharta", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/sukhakarta_dukhaharta.opus", "duration": "3:40"},
-        {"title": "Siddhi Vinayaka Stotram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/siddhi_vinayaka.opus", "duration": "4:20"},
-        {"title": "Govinda Namalu", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/govinda_namalu.opus", "duration": "29:55"},
-        {"title": "Vishnu Sahasranamam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/vishnu_sahasranamam.opus", "duration": "7:00"},
-        {"title": "Ugram Viram Maha Vishnum", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/ugram_viram_maha_vishnum.opus", "duration": "0:19"},
-        {"title": "Sri Rama Raksha Stotram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/rama_raksha.opus", "duration": "5:45"},
-        {"title": "Shri Rama Jayam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/shri_rama_jayam.opus", "duration": "4:30"},
-        {"title": "Bhaja Govindam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/bhaja_govindam.opus", "duration": "5:20"},
-        {"title": "Ayyappa Suprabhatam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/ayyappa_suprabhatam.opus", "duration": "6:15"},
-        {"title": "Swamiye Saranam Ayyappa", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/swamiye_saranam.opus", "duration": "4:40"},
-        {"title": "Sabarimala Pooja", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/sabarimala_pooja.opus", "duration": "5:00"},
-        {"title": "Harivarasanam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/harivarasanam.opus", "duration": "3:35"},
-        {"title": "Rama Nama Mahima", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/rama_nama_mahima.opus", "duration": "4:50"}
+        {
+          "title": "Ganesha Pancharatnam Stotram",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Wednesday/Ganesha%20Pancharatnam%20Stotram.opus",
+          "duration": "4:27",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_ganesha_1776579313961.png"
+        },
+        {
+          "title": "Ramadasu Pahi Rama Prabho",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Wednesday/Ramadasu%20Pahi%20Rama%20Prabho.opus",
+          "duration": "5:01",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_vishnu_1776579165530.png"
+        },
+        {
+          "title": "Ramadasu Ye Teeruga Nanu",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Wednesday/Ramadasu%20Ye%20Teeruga%20Nanu.opus",
+          "duration": "6:28",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_vishnu_1776579165530.png"
+        },
+        {
+          "title": "Ramachandraya Mangalam",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Wednesday/Ramachandraya%20Mangalam.opus",
+          "duration": "3:39",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_vishnu_1776579165530.png"
+        },
+        {
+          "title": "Sri Ranganatha Ashtakam",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Wednesday/Sri%20Ranganatha%20Ashtakam.opus",
+          "duration": "3:51",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_vishnu_1776579165530.png"
+        },
+        {
+          "title": "Vishnu Sahasranamam",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Wednesday/Vishnu%20Sahasranamam.opus",
+          "duration": "29:46",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_vishnu_1776579165530.png"
+        },
+        {
+          "title": "Deva Devam Bhaje",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Wednesday/Deva%20Devam%20Bhaje.opus",
+          "duration": "4:11",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_ganesha_1776579313961.png"
+        },
+        {
+          "title": "GARUDAGAMANA TAVA",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Wednesday/GARUDAGAMANA%20TAVA.opus",
+          "duration": "7:40",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_vishnu_1776579165530.png"
+        },
+        {
+          "title": "Vakratunda Mahakaya",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/vakratunda_mahakaya.opus",
+          "duration": "2:30",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_ganesha_1776579313961.png"
+        },
+        {
+          "title": "Ganesh Ashtakam",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/ganesh_ashtakam.opus",
+          "duration": "4:15",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_ganesha_1776579313961.png"
+        },
+        {
+          "title": "Sukhakarta Dukhaharta",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/sukhakarta_dukhaharta.opus",
+          "duration": "3:40",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_ganesha_1776579313961.png"
+        },
+        {
+          "title": "Siddhi Vinayaka Stotram",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/siddhi_vinayaka.opus",
+          "duration": "4:20",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_ganesha_1776579313961.png"
+        },
+        {
+          "title": "Govinda Namalu",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/govinda_namalu.opus",
+          "duration": "29:55",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_venkateswara_1776579139190.png"
+        },
+        {
+          "title": "Vishnu Sahasranamam",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/vishnu_sahasranamam.opus",
+          "duration": "7:00",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_vishnu_1776579165530.png"
+        },
+        {
+          "title": "Ugram Viram Maha Vishnum",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/ugram_viram_maha_vishnum.opus",
+          "duration": "0:19",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_vishnu_1776579165530.png"
+        },
+        {
+          "title": "Sri Rama Raksha Stotram",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/rama_raksha.opus",
+          "duration": "5:45",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_vishnu_1776579165530.png"
+        },
+        {
+          "title": "Shri Rama Jayam",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/shri_rama_jayam.opus",
+          "duration": "4:30",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_vishnu_1776579165530.png"
+        },
+        {
+          "title": "Bhaja Govindam",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/bhaja_govindam.opus",
+          "duration": "5:20",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_vishnu_1776579165530.png"
+        },
+        {
+          "title": "Ayyappa Suprabhatam",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/ayyappa_suprabhatam.opus",
+          "duration": "6:15",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_ganesha_1776579313961.png"
+        },
+        {
+          "title": "Swamiye Saranam Ayyappa",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/swamiye_saranam.opus",
+          "duration": "4:40",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_ganesha_1776579313961.png"
+        },
+        {
+          "title": "Sabarimala Pooja",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/sabarimala_pooja.opus",
+          "duration": "5:00",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_ganesha_1776579313961.png"
+        },
+        {
+          "title": "Harivarasanam",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/harivarasanam.opus",
+          "duration": "3:35",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_ganesha_1776579313961.png"
+        },
+        {
+          "title": "Rama Nama Mahima",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/songs/rama_nama_mahima.opus",
+          "duration": "4:50",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_vishnu_1776579165530.png"
+        }
       ]
     },
     "thursday": {
       "day": "Thursday",
       "deity": "Datta, Sai Baba & Dakshinamurthy",
-      "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/dattatreya_1776579419088.png",
+      "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/sai_baba_1776738448488.png",
       "color": "#F57F17",
       "description": "Seek wisdom and blessings from the Divine Gurus",
       "songs": [
-        {"title": "SIDDHA MANGALA STOTRAM", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Thursday/SIDDHA%20MANGALA%20STOTRAM.opus", "duration": "5:00"},
-        {"title": "SRI DAKSHINAMURTHY STOTRAM", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Thursday/SRI%20DAKSHINAMURTHY%20STOTRAM.opus", "duration": "6:00"},
-        {"title": "Sri Dattatreya Vajra Kavacha Stotram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Thursday/Sri_Dattatreya_Vajra_Kavacha_Stotram_new.opus", "duration": "7:00"},
-        {"title": "Sri Dattatreya Stotram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Thursday/Sri%20Dattatreya%20Stotram.opus", "duration": "5:30"},
-        {"title": "Guru Paduka Stotram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Thursday/Guru%20Paduka%20Stotram.opus", "duration": "4:40"},
-        {"title": "Sai Baba Madhyan Harathi (Afternoon)", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Thursday/Sai%20Baba%20Madhyan%20Harathi%20(Afternoon).opus", "duration": "3:50"},
-        {"title": "Saibaba Dhoop Aarti", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Thursday/Saibaba%20Dhoop%20Aarti.opus", "duration": "4:10"},
-        {"title": "Shirdi Sai Baba Kakada Harathi", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Thursday/Shirdi%20Sai%20Baba%20Kakada%20Harathi.opus", "duration": "3:30"},
-        {"title": "Shiridi Sai Baba Shej Aarti (Night Aarti)", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Thursday/Shiridi%20Sai%20Baba%20Shej%20Aarti%20(Night%20Aarti).opus", "duration": "4:00"},
-        {"title": "Sri Shiridi Sai Baba Chalisa", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Thursday/Sri%20Shiridi%20Sai%20Baba%20Chalisa.opus", "duration": "5:30"}
+        {
+          "title": "SIDDHA MANGALA STOTRAM",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Thursday/SIDDHA%20MANGALA%20STOTRAM.opus",
+          "duration": "5:00",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/sai_baba_1776738448488.png"
+        },
+        {
+          "title": "SRI DAKSHINAMURTHY STOTRAM",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Thursday/SRI%20DAKSHINAMURTHY%20STOTRAM.opus",
+          "duration": "6:00",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/sai_baba_1776738448488.png"
+        },
+        {
+          "title": "Sri Dattatreya Vajra Kavacha Stotram",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Thursday/Sri_Dattatreya_Vajra_Kavacha_Stotram_new.opus",
+          "duration": "7:00",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/sai_baba_1776738448488.png"
+        },
+        {
+          "title": "Sri Dattatreya Stotram",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Thursday/Sri%20Dattatreya%20Stotram.opus",
+          "duration": "5:30",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/sai_baba_1776738448488.png"
+        },
+        {
+          "title": "Guru Paduka Stotram",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Thursday/Guru%20Paduka%20Stotram.opus",
+          "duration": "4:40",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/sai_baba_1776738448488.png"
+        },
+        {
+          "title": "Sai Baba Madhyan Harathi (Afternoon)",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Thursday/Sai%20Baba%20Madhyan%20Harathi%20(Afternoon).opus",
+          "duration": "3:50",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/sai_baba_1776738448488.png"
+        },
+        {
+          "title": "Saibaba Dhoop Aarti",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Thursday/Saibaba%20Dhoop%20Aarti.opus",
+          "duration": "4:10",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/sai_baba_1776738448488.png"
+        },
+        {
+          "title": "Shirdi Sai Baba Kakada Harathi",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Thursday/Shirdi%20Sai%20Baba%20Kakada%20Harathi.opus",
+          "duration": "3:30",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/sai_baba_1776738448488.png"
+        },
+        {
+          "title": "Shiridi Sai Baba Shej Aarti (Night Aarti)",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Thursday/Shiridi%20Sai%20Baba%20Shej%20Aarti%20(Night%20Aarti).opus",
+          "duration": "4:00",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/sai_baba_1776738448488.png"
+        },
+        {
+          "title": "Sri Shiridi Sai Baba Chalisa",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Thursday/Sri%20Shiridi%20Sai%20Baba%20Chalisa.opus",
+          "duration": "5:30",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/sai_baba_1776738448488.png"
+        }
       ]
     },
     "friday": {
@@ -92,14 +332,54 @@
       "color": "#AD1457",
       "description": "Invite prosperity, protection and wisdom from the Divine Mothers",
       "songs": [
-        {"title": "Aigiri Nandini", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Friday/Aigiri%20Nandini.opus", "duration": "15:13"},
-        {"title": "Aparajita Stotram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Friday/Aparajita%20Stotram.opus", "duration": "8:18"},
-        {"title": "Hayagreeva Stotram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Friday/Hayagreeva%20Stotram.opus", "duration": "10:53"},
-        {"title": "Kanakadhara Stotram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Friday/Kanakadhara%20Stotram.opus", "duration": "10:42"},
-        {"title": "Manidweepa Varnana", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Friday/Manidweepa%20Varnana.opus", "duration": "12:44"},
-        {"title": "Saraswathi Kavacham Song", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Friday/Saraswathi%20Kavacham%20Song.opus", "duration": "4:13"},
-        {"title": "Saraswati Vishwavijay Kavach", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Friday/Saraswati%20Vishwavijay%20Kavach.opus", "duration": "10:45"},
-        {"title": "Sri Lalitha Sahasranama Stotram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Friday/Sri%20Lalitha%20Sahasranama%20Stotram.opus", "duration": "30:55"}
+        {
+          "title": "Aigiri Nandini",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Friday/Aigiri%20Nandini.opus",
+          "duration": "15:13",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/goddess_lakshmi_1776579283719.png"
+        },
+        {
+          "title": "Aparajita Stotram",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Friday/Aparajita%20Stotram.opus",
+          "duration": "8:18",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/goddess_lakshmi_1776579283719.png"
+        },
+        {
+          "title": "Hayagreeva Stotram",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Friday/Hayagreeva%20Stotram.opus",
+          "duration": "10:53",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/goddess_lakshmi_1776579283719.png"
+        },
+        {
+          "title": "Kanakadhara Stotram",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Friday/Kanakadhara%20Stotram.opus",
+          "duration": "10:42",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/goddess_lakshmi_1776579283719.png"
+        },
+        {
+          "title": "Manidweepa Varnana",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Friday/Manidweepa%20Varnana.opus",
+          "duration": "12:44",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/goddess_lakshmi_1776579283719.png"
+        },
+        {
+          "title": "Saraswathi Kavacham Song",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Friday/Saraswathi%20Kavacham%20Song.opus",
+          "duration": "4:13",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/goddess_lakshmi_1776579283719.png"
+        },
+        {
+          "title": "Saraswati Vishwavijay Kavach",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Friday/Saraswati%20Vishwavijay%20Kavach.opus",
+          "duration": "10:45",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/goddess_lakshmi_1776579283719.png"
+        },
+        {
+          "title": "Sri Lalitha Sahasranama Stotram",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Friday/Sri%20Lalitha%20Sahasranama%20Stotram.opus",
+          "duration": "30:55",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/goddess_lakshmi_1776579283719.png"
+        }
       ]
     },
     "saturday": {
@@ -109,15 +389,60 @@
       "color": "#E65100",
       "description": "End the week with Balaji's grace and Annamayya's devotion",
       "songs": [
-        {"title": "Sri Venkateswara Suprabhatham", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Saturday/Sri%20Venkateswara%20Suprabhatham.opus", "duration": "20:41"},
-        {"title": "Sri Venkatesha Stotram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Saturday/Sri%20Venkatesha%20Stotram.opus", "duration": "5:29"},
-        {"title": "Ksheerabdi Kanyakaku- Annamayya Keerthana", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Saturday/Annamayya%20Keerthana%20%20Ksheerabdi%20Kanyakaku.opus", "duration": "7:52"},
-        {"title": "Alara Chanchalamaina- Annamayya Keerthana", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Saturday/Annamayya%20Keerthana%20Alara%20Chanchalamaina%20Annamacharya.opus", "duration": "6:43"},
-        {"title": "Anthayu Neeve- Annamayya Keerthana", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Saturday/Annamayya%20Keerthana%20Anthayu%20Neeve%20Song.opus", "duration": "8:07"},
-        {"title": "Merugu Chekkula Alamelu Manga- Annamayya Keerthana", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Saturday/Annamayya%20Keerthana%20Merugu%20Chekkula%20Alamelu%20Manga.opus", "duration": "6:58"},
-        {"title": "Narayana Nee Naamame- Annamayya Keerthana", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Saturday/Annamayya%20Keerthana%20Narayana%20Nee%20Naamame.opus", "duration": "7:06"},
-        {"title": "Narayanathe Namo Namo- Annamayya Keerthana", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Saturday/Annamayya%20Keerthana%20Narayanathe%20namo%20namo.opus", "duration": "7:33"},
-        {"title": "Thalachedi Okati- Annamayya Keerthana", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Saturday/Annamayya%20Keerthana%20Thalachedi%20Okati.opus", "duration": "3:36"}
+        {
+          "title": "Sri Venkateswara Suprabhatham",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Saturday/Sri%20Venkateswara%20Suprabhatham.opus",
+          "duration": "20:41",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_venkateswara_1776579139190.png"
+        },
+        {
+          "title": "Sri Venkatesha Stotram",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Saturday/Sri%20Venkatesha%20Stotram.opus",
+          "duration": "5:29",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_venkateswara_1776579139190.png"
+        },
+        {
+          "title": "Ksheerabdi Kanyakaku- Annamayya Keerthana",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Saturday/Annamayya%20Keerthana%20%20Ksheerabdi%20Kanyakaku.opus",
+          "duration": "7:52",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_venkateswara_1776579139190.png"
+        },
+        {
+          "title": "Alara Chanchalamaina- Annamayya Keerthana",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Saturday/Annamayya%20Keerthana%20Alara%20Chanchalamaina%20Annamacharya.opus",
+          "duration": "6:43",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_venkateswara_1776579139190.png"
+        },
+        {
+          "title": "Anthayu Neeve- Annamayya Keerthana",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Saturday/Annamayya%20Keerthana%20Anthayu%20Neeve%20Song.opus",
+          "duration": "8:07",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_venkateswara_1776579139190.png"
+        },
+        {
+          "title": "Merugu Chekkula Alamelu Manga- Annamayya Keerthana",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Saturday/Annamayya%20Keerthana%20Merugu%20Chekkula%20Alamelu%20Manga.opus",
+          "duration": "6:58",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_venkateswara_1776579139190.png"
+        },
+        {
+          "title": "Narayana Nee Naamame- Annamayya Keerthana",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Saturday/Annamayya%20Keerthana%20Narayana%20Nee%20Naamame.opus",
+          "duration": "7:06",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_venkateswara_1776579139190.png"
+        },
+        {
+          "title": "Narayanathe Namo Namo- Annamayya Keerthana",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Saturday/Annamayya%20Keerthana%20Narayanathe%20namo%20namo.opus",
+          "duration": "7:33",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_venkateswara_1776579139190.png"
+        },
+        {
+          "title": "Thalachedi Okati- Annamayya Keerthana",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Saturday/Annamayya%20Keerthana%20Thalachedi%20Okati.opus",
+          "duration": "3:36",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_venkateswara_1776579139190.png"
+        }
       ]
     },
     "sunday": {
@@ -127,11 +452,36 @@
       "color": "#FF8F00",
       "description": "Greet the Sun God with devotion and divine wisdom",
       "songs": [
-        {"title": "Aditya Hrudayam Stotram", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Sunday/Aditya%20Hrudayam%20Stotram.opus", "duration": "9:32"},
-        {"title": "Surya Kavacham", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Sunday/Surya%20Kavacham.opus", "duration": "1:25"},
-        {"title": "Vishnu Sahasranamam", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Wednesday/Vishnu%20Sahasranamam.opus", "duration": "29:46"},
-        {"title": "Deva Devam Bhaje", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Wednesday/Deva%20Devam%20Bhaje.opus", "duration": "4:11"},
-        {"title": "GARUDAGAMANA TAVA", "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Wednesday/GARUDAGAMANA%20TAVA.opus", "duration": "7:40"}
+        {
+          "title": "Aditya Hrudayam Stotram",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Sunday/Aditya%20Hrudayam%20Stotram.opus",
+          "duration": "9:32",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_surya_1776579383336.png"
+        },
+        {
+          "title": "Surya Kavacham",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Sunday/Surya%20Kavacham.opus",
+          "duration": "1:25",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_surya_1776579383336.png"
+        },
+        {
+          "title": "Vishnu Sahasranamam",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Wednesday/Vishnu%20Sahasranamam.opus",
+          "duration": "29:46",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_vishnu_1776579165530.png"
+        },
+        {
+          "title": "Deva Devam Bhaje",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Wednesday/Deva%20Devam%20Bhaje.opus",
+          "duration": "4:11",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_surya_1776579383336.png"
+        },
+        {
+          "title": "GARUDAGAMANA TAVA",
+          "uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/daily/Wednesday/GARUDAGAMANA%20TAVA.opus",
+          "duration": "7:40",
+          "artwork_uri": "https://raw.githubusercontent.com/vakdevitrust-dot/morningraaga/main/images/lord_vishnu_1776579165530.png"
+        }
       ]
     }
   }
